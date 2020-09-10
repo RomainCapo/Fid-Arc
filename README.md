@@ -54,3 +54,9 @@ php artisan passport:keys
 php artisan db:seed
 
 ```
+
+## Team
+
+* Alexandre Bianchi [@Scanix](https://github.com/Scanix)
+* Romain Capocasale [@RomainCapo](https://github.com/RomainCapo)
+* Vincent Moulin [@dicksor](https://github.com/dicksor)
